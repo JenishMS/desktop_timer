@@ -1,0 +1,2 @@
+D:/LEARN/desktop_timer/android/app/.cxx/Debug/331l6555/x86/CMakeFiles/edit_cache.dir
+D:/LEARN/desktop_timer/android/app/.cxx/Debug/331l6555/x86/CMakeFiles/rebuild_cache.dir
